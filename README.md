@@ -9,7 +9,7 @@ My experience is focused on web application development. I've spent most of my t
 *   🌍  I'm based in Berlin, Germany
 *   ✉️  You can contact me at [diego at dmpinheiro.net](mailto:diego at dmpinheiro.net)
 *   🧠  I'm learning Remix, Rust, Next.js
-*   🤝  I'm open to collaborating on Any projects related to modern web development
+*   🤝  I'm open to collaborating on any project related to modern web development
 
 
 ### Skills 
