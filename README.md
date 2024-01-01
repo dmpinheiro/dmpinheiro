@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego
 =============================================================================================================================
 
-Full-stack software Engineer
+Full-stack Software Engineer
 ----------------------------
 
 My experience is focused on web application development. I've spent most of my time maintaining content management frameworks for big websites.
